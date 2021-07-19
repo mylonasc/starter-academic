@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Charilaos (Harry) Mylonas
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ETH Zurich
+  url: https://www.ethz.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computational scientist with strong interest in deep learning
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian deep learing & Deep Generative Models
+- Graph Neural Networks
+- Scientific Simulations
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Machine Learning for SHM under Uncertainty
+    institution: ETH Zurich
+    year: 2021
+  - course: M.Sc. Computational Science & Engineering
+    institution: ETH Zurich
+    year: 2015
+  - course: M.Sc. in Civil Engineering
+    institution: Aristotle University of Thessaloniki
     year: 2008
 
 # Social/Academic Networking
@@ -45,13 +45,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=W7giwJEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mylonasc
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
