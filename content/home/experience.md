@@ -25,7 +25,6 @@ experience:
   - title: Doctoral Researcher
     company: ETH Zurich
     company_url: ''
-    company_logo: eth-logo
     location: Zurich
     date_start: '2016-09-01'
     date_end: ''
@@ -39,7 +38,6 @@ experience:
   - title: Research Assistant
     company: ETH Zurich
     company_url: ''
-    company_logo: eth-logo
     location: Zurich
     date_start: '2015-12-01'
     date_end: '2016-08-31'
