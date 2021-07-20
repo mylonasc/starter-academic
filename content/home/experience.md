@@ -45,11 +45,11 @@ experience:
     date_end: '2016-08-31'
     description: Scientific Software Developer
   
-  -title: Full-Stack Software Engineer
-   company: Credit Suisse
-   date_start: '2014-07-01'
-   date_end: '2014-12-01'
-   description: Implemented from scratch in Javascript and Python internal web-based tools for time series inspection, implemented a R-to-C++ interface for an option pricer.
+  - title: Full-Stack Software Engineer
+    company: Credit Suisse
+    date_start: '2014-07-01'
+    date_end: '2014-12-01'
+    description: Implemented from scratch in Javascript and Python internal web-based tools for time series inspection, implemented a R-to-C++ interface for an option pricer.
 
 design:
   columns: '2'
