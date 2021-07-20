@@ -22,28 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Doctoral Researcher
+    company: ETH Zurich
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: eth-logo
+    location: Zurich
+    date_start: '2016-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Research topics:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Generative Models for UQ in engineering 
+        * Graph Neural Networks
+        * Wind turbine and wind farm simulations 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: ETH Zurich
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: eth-logo
+    location: Zurich
+    date_start: '2015-12-01'
+    date_end: '2016-08-31'
+    description: Scientific Software Developer
+  
+  -title: Full-Stack Software Engineer
+   company: Credit Suisse
+   date_start: '2014-07-01'
+   date_end: '2014-12-01'
+   description: Implemented from scratch in Javascript and Python internal web-based tools for time series inspection, implemented a R-to-C++ interface for an option pricer.
 
 design:
   columns: '2'
