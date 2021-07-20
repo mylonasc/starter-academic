@@ -1,5 +1,5 @@
 ---
-title: "Deep unsupervised learning for condition monitoring and prediction of high dimensional data with application on windfarm SCADA data"
+title: "Relational VAE: A Continuous Latent Variable Model for Graph Structured Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -47,17 +47,14 @@ featured: true
 
 url_pdf: 'https://arxiv.org/abs/2106.16049'
 url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1SNMCCxNH2a4I_v_bg99mIG6pXxFsmC_CdpZAXou_l1Y/edit?usp=sharing'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=tAV7G_kwcRI'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -66,8 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -77,12 +73,12 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
+#
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+#
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
