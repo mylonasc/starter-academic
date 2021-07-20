@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a computational scientist working on applications of bayesian Deep learning and Graph Neural Networks for scientific computing and condition monitoring problems. I am currently a dectoral researcher at the lab of Eleni Chatzi at ETH Zurich.
+I am a computational scientist, working on applications of bayesian Deep learning and Graph Neural Networks. My main application domains are scientific computing and condition monitoring. I am currently a doctoral researcher at ETH Zurich.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
