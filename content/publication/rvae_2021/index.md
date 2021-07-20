@@ -33,7 +33,7 @@ publication_short:
 abstract: Graph Networks (GNs) enable the fusion of prior knowledge and relational reasoning with flexible function approximations. In this work, a general GN-based model is proposed which takes full advantage of the relational modeling capabilities of GNs and extends these to probabilistic modeling with Variational Bayes (VB). To that end, we combine complementary pre-existing approaches on VB for graph data and propose an approach that relies on graph-structured latent and conditioning variables. It is demonstrated that Neural Processes can also be viewed through the lens of the proposed model. We show applications on the problem of structured probability density modeling for simulated and real wind farm monitoring data, as well as on the meta-learning of simulated Gaussian Process data. We release the source code, along with the simulated datasets.
 
 # Summary. An optional shortened abstract.
-summary: TLDR: Motivated by the need for edge uncertainty in modeling wind farm wakes, a graph latent variable model that allows for full graph conditioning and graph latent variables is proposed.
+summary: Motivated by the need for edge uncertainty in modeling wind farm wakes, a graph latent variable model that allows for full graph conditioning and graph latent variables is proposed.
 
 tags: ["deep learning", "VAE"]
 
