@@ -61,13 +61,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mylonas.charilaos@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-I am a computational scientist, working on applications of bayesian Deep learning and Graph Neural Networks. My main application domains are scientific computing and condition monitoring. I am currently a doctoral researcher at ETH Zurich.
+I am a computational scientist, working on applications of Bayesian Deep Learning and Graph Neural Networks. My main application domains are scientific computing and condition monitoring. I am currently a doctoral researcher at ETH Zurich.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_June21.pdf" "newtab" >}}resumé{{< /staticref >}}.
