@@ -30,17 +30,7 @@ publication_types: ["1"]
 publication: In *Proceedings of the 37th IMAC, A Conference and Exposition on Structural Dynamics 2019*
 publication_short: In *IMAC*
 
-abstract: In this work we are addressing the problem of statistical modeling of the joint distribution of data collected from wind turbines
-interacting due to collective effect of their placement in a wind-farm, the wind characteristics (speed/orientation) and the turbine
-control. Operating wind turbines extract energy from the wind and at the same time produce wakes on the down-wind turbines
-in a park, causing reduced power production and increased vibrations, potentially contributing in a detrimental manner to
-fatigue life. This work presents a Variational Auto-Encoder (VAE) Neural Network architecture capable of mapping the high
-dimensional correlated stochastic variables over the wind-farm, such as power production and wind speed, to a parametric
-probability distribution of much lower dimensionality. We demonstrate how a trained VAE can be used in order to quantify
-levels of statistical deviation on condition monitoring data. Moreover, we demonstrate how the VAE can be used for pretraining an inference model, capable of predicting the power production of the farm together with bounds on the uncertainty of
-the predictions.
-Examples employing simulated wind-farm Supervisory Control And Data Acquisition (SCADA) data are presented. The simulated farm data are acquired from a Dynamic Wake Meandering (DWM) simulation of a small wind farm comprised of nine
-5MW turbines in close spacing using OpenFAST
+abstract: In this work we are addressing the problem of statistical modeling of the joint distribution of data collected from wind turbines interacting due to collective effect of their placement in a wind-farm, the wind characteristics (speed/orientation) and the turbine control. Operating wind turbines extract energy from the wind and at the same time produce wakes on the down-wind turbines in a park, causing reduced power production and increased vibrations, potentially contributing in a detrimental manner to fatigue life. This work presents a Variational Auto-Encoder (VAE) Neural Network architecture capable of mapping the high dimensional correlated stochastic variables over the wind-farm, such as power production and wind speed, to a parametric probability distribution of much lower dimensionality. We demonstrate how a trained VAE can be used in order to quantify levels of statistical deviation on condition monitoring data. Moreover, we demonstrate how the VAE can be used for pretraining an inference model, capable of predicting the power production of the farm together with bounds on the uncertainty of the predictions. Examples employing simulated wind-farm Supervisory Control And Data Acquisition (SCADA) data are presented. The simulated farm data are acquired from a Dynamic Wake Meandering (DWM) simulation of a small wind farm comprised of nine 5MW turbines in close spacing using OpenFAST
 
 # Summary. An optional shortened abstract.
 summary: Using conditional latent variable models for wind farm monitoring data.
