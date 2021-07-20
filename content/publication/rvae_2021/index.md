@@ -35,7 +35,7 @@ abstract: Graph Networks (GNs) enable the fusion of prior knowledge and relation
 # Summary. An optional shortened abstract.
 summary: Motivated by the need for edge uncertainty in modeling wind farm wakes, a graph latent variable model that allows for full graph conditioning and graph latent variables is proposed.
 
-tags: ["deep learning", "VAE"]
+tags: ["deep learning", "VAE","GNN","wind farms","Variational Bayes"]
 
 # Display this page in the Featured widget?
 featured: true

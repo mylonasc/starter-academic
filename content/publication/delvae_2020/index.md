@@ -34,7 +34,7 @@ abstract: Wind turbine fatigue estimation is based on time-consuming Monte Carlo
 
 # Summary. An optional shortened abstract.
 summary: Using conditional latent variable models for wind farm monitoring data.
-tags: ["deep learning", "VAE"]
+tags: ["VAE","Composite Fatigue","Deep Learning", "Wind Turbine"]
 
 # Display this page in the Featured widget?
 featured: true

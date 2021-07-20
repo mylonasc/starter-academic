@@ -34,7 +34,7 @@ abstract: In this work we are addressing the problem of statistical modeling of 
 
 # Summary. An optional shortened abstract.
 summary: Using conditional latent variable models for wind farm monitoring data.
-tags: ["deep learning", "VAE"]
+tags: ["Deep Learning", "VAE","GNN", "Variational Bayes"]
 
 # Display this page in the Featured widget?
 featured: true
