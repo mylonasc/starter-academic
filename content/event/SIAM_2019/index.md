@@ -1,5 +1,5 @@
 ---
-title: Awarded scholarship to attend SIAM-G2S3 on High Performance Data Analytics!
+title: "Awarded scholarship to attend SIAM-G2S3 on High Performance Data Analytics!"
 
 event: "Gene Golub SIAM Summer School 2019: High Performance Data Analytics"
 event_url: "https://project.inria.fr/siamsummerschool/participants/"
@@ -34,7 +34,6 @@ image:
   caption: ''
   focal_point: Right
 
-links: ""
 url_code: ""
 url_pdf: "https://www.researchgate.net/profile/Charilaos-Mylonas-2/publication/334318324_DeepFarm_Deep_Generative_Modelling_for_Wind_Farms/links/5d244b04299bf1547ca4fffb/DeepFarm-Deep-Generative-Modelling-for-Wind-Farms.pdf"
 url_slides: ""
