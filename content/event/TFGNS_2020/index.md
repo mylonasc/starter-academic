@@ -1,8 +1,8 @@
 ---
 title: "tf_gnns release"
 
-event: "Core release"
-event_url: "https://sem.org/imac"
+event: "Code release"
+event_url: "https://github.com/mylonasc/tf_gnns"
 
 location: 
 address: 
@@ -13,7 +13,7 @@ address:
   country: (online)
 
 summary: tf_gnns released!
-abstract: "I am thrilled to announce open-sourcing my own pandemic baby: a tensorflow/keras-based Graph Network library! It started in part as a learning exercise, and in part as a reaction to some design choices I didn't find comfortable in my (previously) favorite implementation from DeepMind (like the use of sonnet for easy network creation)."
+abstract: "I am thrilled to announce open-sourcing my own pandemic baby: a tensorflow/keras-based Graph Network library! It started in part as a learning exercise, and in part as a reaction to some design choices I didn't find comfortable in my (previously) favorite implementation from DeepMind (like the use of sonnet for easy network creation). Also it is performing well without having to resort to tf 1.x code."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
