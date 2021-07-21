@@ -18,7 +18,8 @@ bio: Computational scientist with strong interest in deep learning
 
 # Interests to show in About widget
 interests:
-- Bayesian deep learing & Deep Generative Models
+- Probabilistic deep learing 
+- Deep Generative Models
 - Graph Neural Networks
 - Scientific Computing
 
@@ -53,6 +54,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/charilaos-mylonas-54691948/
 
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -70,4 +72,4 @@ highlight_name: true
 I am a computational scientist, working on applications of Bayesian Deep Learning and Graph Neural Networks. My main application domains are scientific computing and condition monitoring. I am currently a doctoral researcher at ETH Zurich.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_June21.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_July21.pdf" "newtab" >}}resumé{{< /staticref >}}.
