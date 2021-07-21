@@ -2,7 +2,7 @@
 title: Awarded scholarship to attend SIAM-G2S3 on High Performance Data Analytics!
 
 event: Gene Golub SIAM Summer School 2019: High Performance Data Analytics
-event_url: https://project.inria.fr/siamsummerschool/participants/
+event_url: "https://project.inria.fr/siamsummerschool/participants/"
 
 location: Paul Langevin center at Aussios 
 address: 
@@ -13,7 +13,7 @@ address:
   country: France
 
 summary: summerschool with poster session
-abstract: "(poster on VAEs for wind farms)"
+abstract: "(poster on VAEs for wind farms) Became friends with some amazing PhD researchers on computational science during a 2-week session! Exposed to the idea of matrix sketching, gradient-based tensor decompositions, and Determinatal Point Processes. Favorite highlight (apart from awesome French cheese and wine) the talk by T. Kolda on tensor decompositions."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
