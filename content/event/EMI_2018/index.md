@@ -2,7 +2,7 @@
 title: Crack Detection using Spatiotemporal Pattern Recognition
 
 event: Engineering Mechanics Institute Conference 2018
-event_url: https://umi.mit.edu/EMI2018
+event_url: "https://umi.mit.edu/EMI2018"
 
 location: MIT 
 address:
@@ -37,7 +37,7 @@ image:
 links: ""
 url_code: ""
 url_pdf: ""
-url_slides: "https://www.eccomasproceedia.org/conferences/thematic-conferences/uncecomp-2017/5379""
+url_slides: "https://www.eccomasproceedia.org/conferences/thematic-conferences/uncecomp-2017/5379"
 url_video: ""
 
 # Markdown Slides (optional).
