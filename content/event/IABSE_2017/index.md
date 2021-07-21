@@ -34,11 +34,6 @@ image:
   caption: ''
   focal_point: Right
 
-links:
-- icon: 
-  icon_pack: 
-  name: Follow
-  url: 'https://iabse2017.org/'
 url_code: ""
 url_pdf: ""
 url_slides: ""

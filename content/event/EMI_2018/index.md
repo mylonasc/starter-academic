@@ -34,7 +34,6 @@ image:
   caption: ''
   focal_point: Right
 
-links: ""
 url_code: ""
 url_pdf: ""
 url_slides: "https://www.eccomasproceedia.org/conferences/thematic-conferences/uncecomp-2017/5379"
