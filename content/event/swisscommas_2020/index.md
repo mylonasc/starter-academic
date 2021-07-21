@@ -1,5 +1,5 @@
 ---
-title: "SWICCOMMAS Poster - Anchor farigue and adversarial regularization"
+title: "SWICCOMMAS Poster - Anchor fatigue and adversarial regularization"
 
 event: "SWICOMMAS Poster session"
 event_url: "https://swiccomas.ch/poster-session/"
