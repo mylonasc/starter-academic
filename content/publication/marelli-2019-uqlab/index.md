@@ -35,7 +35,7 @@ publication_short:
 abstract: Implemented and tested some sensitivity analysis algorithms. Also contributed to the Polynomial Chaos module of UQLab.
 
 # Summary. An optional shortened abstract.
-summary: -
+summary: ""
 tags: ["Sensitivity Analysis", "UQLab","Matlab"]
 
 # Display this page in the Featured widget?
