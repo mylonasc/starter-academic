@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2021.06791'
+url_pdf: 'https://arxiv.org/pdf/2012.06791'
 url_code: ''
 url_slides: 'https://docs.google.com/presentation/d/1XP6iinfQwWuLhSZpDPLclxkbAdx0S2RhunNINhXvHKg/edit?usp=sharing'
 url_source: ''
