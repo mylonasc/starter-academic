@@ -29,11 +29,15 @@ experience:
     date_start: '2016-09-01'
     date_end: ''
     description: |2-
+        
+        Chair of Structural Mechanics and Monitoring.
         Research topics:
         
         * Generative Models for UQ in engineering 
         * Graph Neural Networks
         * Wind turbine and wind farm simulations 
+        
+        
         
   - title: Research Assistant
     company: ETH Zurich
@@ -41,7 +45,7 @@ experience:
     location: Zurich
     date_start: '2015-12-01'
     date_end: '2016-08-31'
-    description: Scientific Software Developer
+    description: Scientific Software Developer, Chair of Risk, Safety, and Uncertainty Quantification
   
   - title: Full-Stack Software Engineer
     company: Credit Suisse
