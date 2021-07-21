@@ -1,7 +1,7 @@
 ---
 title: Awarded scholarship to attend SIAM-G2S3 on High Performance Data Analytics!
 
-event: Gene Golub SIAM Summer School 2019: High Performance Data Analytics
+event: "Gene Golub SIAM Summer School 2019: High Performance Data Analytics"
 event_url: "https://project.inria.fr/siamsummerschool/participants/"
 
 location: Paul Langevin center at Aussios 
