@@ -1,5 +1,5 @@
 ---
-title: "Awarded scholarship to attend SIAM-G2S3 on High Performance Data Analytics!"
+title: "IMAC 2019 Presentation on Conditional Generative Models (CVAEs) for Wind Farms"
 
 event: "Gene Golub SIAM Summer School 2019: High Performance Data Analytics"
 event_url: "https://sem.org/imac"
