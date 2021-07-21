@@ -1,5 +1,5 @@
 ---
-title: "Wrote my own open-source GN library from scratch and released it as a pip installable package"
+title: "tf_gnns release"
 
 event: "Core release"
 event_url: "https://sem.org/imac"
@@ -13,7 +13,7 @@ address:
   country: (online)
 
 summary: tf_gnns released!
-abstract: "I am thrilled to announce open-sourcing my own pandemic baby: a 0tensorflow-based Graph Network library! It started in part as a learning exercise, and in part as a reaction to some design choices I didn't find comfortable in the deep-mind's graph_nets library (like the use of sonnet for easy network creation)."
+abstract: "I am thrilled to announce open-sourcing my own pandemic baby: a tensorflow/keras-based Graph Network library! It started in part as a learning exercise, and in part as a reaction to some design choices I didn't find comfortable in my (previously) favorite implementation from DeepMind (like the use of sonnet for easy network creation)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
