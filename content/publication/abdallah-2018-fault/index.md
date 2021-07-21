@@ -1,5 +1,5 @@
 ---
-title: "Deep unsupervised learning for condition monitoring and prediction of high dimensional data with application on windfarm SCADA data"
+title: "Fault diagnosis of wind turbine structures using decision tree learning algorithms with big data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
