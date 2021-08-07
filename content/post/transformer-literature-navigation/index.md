@@ -11,6 +11,7 @@ image:
 
 (check out my personal blog [here](https://mylonasc.github.io/2020-09-20-scholarclustering/) for other projects)
 
+{{< toc >}} 
 
 # Literature Clustering for Workshop
 I co-organized some small workshops in my department (Civil and Environmental Engineering) called "[DSML@DBAUG](https://chatzi.ibk.ethz.ch/smm-news/2020/10/dsml.html)" where researchers (Ph.D. and Post Docs) from all chairs of the civil and geomatic engineering at ETH shortly presented their work. Since this was happening during the pandemic, everything happened through zoom. In order to be able to interact during the event, "breakout" sessions were scheduled where loosely moderated discussions around pre-defined topics were conducted among small groups. 
@@ -45,8 +46,8 @@ Simple [spectral clustering](https://scikit-learn.org/stable/modules/clustering.
 
 When I was satisfied with the results, a GUI using `d3.js` was created (adapting [this template](http://bl.ocks.org/paulovn/9686202)).
 Some results from these graphs are shown in the following:
-![mapping related cluster](/static/mapping.png)
-![social related cluster](/static/social_political_papers.png)
+![mapping related cluster](/litgraph/mapping.png)
+![social related cluster](/litgraph/social_political_papers.png)
 
 Note that there are some results from web-scraping that were not correct, but this did not seem to degrade the results a lot. On the contrary, some sociological references, for instance, seem to be more connected, validating that BERT does capture some semantic similarities between the respective abstracts.
 Here is a [live version](https://galerkin.hopto.org/authors_visualization/) of the GUI running on my raspberry pi (everything is pre-computed).
