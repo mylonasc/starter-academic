@@ -2,7 +2,6 @@
 title: Invited talk on GNNs and Bayesian DL in computational science
 
 event: Invited talk to ETH-Computational Science and Engineering lab
-event_url: -
 
 location: ETH Zurich
 address:
@@ -13,7 +12,7 @@ address:
   country: 
 
 summary: "Delivered a presentation on my Graph Net and Bayesian Deep Learning work on crack detection and farm-level turbine interactions. "
-abstract: "In this work I presented my approach to UQ and ML when dealing with large-volumes of high-dimensional data. I briefly presented the supervised learning work on [crack localization with arbitrarily positioned strain-sensors](https://arxiv.org/abs/2012.06791) and parts of the work on building supervised/semi-supervised graph-structured latent variable models with the [relational VAE](https://arxiv.org/abs/2106.16049). Moreover, I presented some results that appear in my PhD work using trained RVAEs for selecting optimal sub-sets of turbines for monitoring with information-theoretic criteria (to appear in my PhD thesis)."
+abstract: "I presented my approach to UQ and ML when dealing with large-volumes of high-dimensional data that contain some structure. I briefly presented the supervised learning work on [crack localization with arbitrarily positioned strain-sensors](https://arxiv.org/abs/2012.06791) and parts of the work on building supervised/semi-supervised graph-structured latent variable models with the [relational VAE](https://arxiv.org/abs/2106.16049). Moreover, I presented some results that appear in my PhD work using trained RVAEs for selecting optimal sub-sets of turbines for monitoring."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
