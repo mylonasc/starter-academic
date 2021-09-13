@@ -72,4 +72,4 @@ highlight_name: true
 I am a computational scientist, working on applications of Bayesian Deep Learning and Graph Neural Networks. My main application domains are scientific computing and condition monitoring. I am currently a doctoral researcher at ETH Zurich.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_July21.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Sep21.pdf" "newtab" >}}resumé{{< /staticref >}}.

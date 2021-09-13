@@ -46,6 +46,12 @@ experience:
     date_start: '2015-12-01'
     date_end: '2016-08-31'
     description: Scientific Software Developer, Chair of Risk, Safety, and Uncertainty Quantification
+
+  - title: (MSc thesis writing)
+    company: ETH Zurich
+    date_start: '2014-12-01'
+    date_end: '2015-08-01'
+    description: Shape optimization with Boundary Elements
   
   - title: Full-Stack Software Engineer
     company: Credit Suisse
