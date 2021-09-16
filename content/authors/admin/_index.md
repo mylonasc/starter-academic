@@ -67,7 +67,7 @@ email: "mylonas.charilaos@gmail.com"
 
 design:
   background: 
-  image: bg_img.png
+  image: img_bg.png
   image_position: center
   image_parallax: true
 
