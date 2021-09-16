@@ -65,6 +65,12 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mylonas.charilaos@gmail.com"
 
+design:
+  background: 
+  image: bg_img.png
+  image_position: center
+  image_parallax: true
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
@@ -73,3 +79,4 @@ I am a computational scientist, working on applications of Bayesian Deep Learnin
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Sep21.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
