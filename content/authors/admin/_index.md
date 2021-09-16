@@ -67,9 +67,9 @@ email: "mylonas.charilaos@gmail.com"
 
 design:
   background: 
-  image: img_bg.png
-  image_position: center
-  image_parallax: true
+    image: img_bg.png
+    image_position: center
+    image_parallax: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
