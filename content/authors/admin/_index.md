@@ -18,8 +18,7 @@ bio: Computational scientist with strong interest in deep learning
 
 # Interests to show in About widget
 interests:
-- Probabilistic deep learing 
-- Deep Generative Models
+- Probabilistic deep learing & Deep Generative Models
 - Graph Neural Networks
 - Scientific Computing
 
@@ -75,7 +74,7 @@ design:
 highlight_name: true
 ---
 
-I am a computational scientist, working on applications of Bayesian Deep Learning and Graph Neural Networks. My main application domains are scientific computing and condition monitoring. I am currently a doctoral researcher at ETH Zurich.
+I am computational scientist (broad scientific computing and data science education). I have recently successfully defended my Ph.D. dissertation. My PhD work was on developing combinations of Bayesian Deep Learning and Graph Neural Networks for structural health assessment problems such as data-driven detection and localization of damage and remaining useful life estimation. I'm passionate about incorporating deep learning in science and engineering, for replacing hand-engineered computational and mathematical simplifications of numerical and statistical models.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Sep21.pdf" "newtab" >}}resumé{{< /staticref >}}.
