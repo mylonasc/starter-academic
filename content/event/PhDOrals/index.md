@@ -1,8 +1,8 @@
 ---
-title: "Passed the Ph.D. defence (viva) with (no corrections)"
+title: "Passed the Ph.D. defence (viva) with no corrections"
 
 event: "PhD Defence"
-event_url: ""
+event_url: "https://chatzi.ibk.ethz.ch/smm-news/2021/09/congratulations-to-charilaos-mylonas-for-successfully-defending-his-phd.html"
 
 location: 
 address: 
@@ -12,8 +12,7 @@ address:
   postcode: 
   country: (online)
 
-summary: PhD Defence
-abstract: "I am thrilled to announce that I successfully defended my PhD dissertation! "
+summary: PhD Defence passed!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
