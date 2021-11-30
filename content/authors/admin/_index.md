@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Machine Learning for SHM under Uncertainty
+  - course: PhD Machine Learning for SHM under Uncertainty
     institution: ETH Zurich
     year: 2021 
   - course: MSc Computational Science & Engineering
@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/MylonasCharilaos_Oct21.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mylonas.charilaos@gmail.com"
@@ -74,8 +74,8 @@ design:
 highlight_name: true
 ---
 
-I am a computational scientist (broad scientific computing and data science education) and I recently successfully defended my Ph.D. dissertation. During my Ph.D. work, I developed combinations of Bayesian Deep Learning and Graph Neural Networks for structural health assessment problems such as data-driven localization of damage and remaining useful life estimation. 
+I am a computational scientist with broad scientific computing and data science education. I have recently successfully defended my Ph.D. dissertation. During my Ph.D. work, I developed combinations of Bayesian Deep Learning and Graph Neural Networks for structural health assessment problems such as data-driven localization of damage and remaining useful life estimation. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Sep21.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
