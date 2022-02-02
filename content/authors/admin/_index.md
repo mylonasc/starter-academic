@@ -74,9 +74,7 @@ design:
 highlight_name: true
 ---
 
-I have recently started a position as a risk analyst at Deloitte AG (Zurich). In my previous work as a doctoral researcher I developped deep learning techniques for quantifying uncertainty and surrogate modeling for wind farms and estimating the remaining useful life of wind turbine components. 
-#I am a computational scientist with broad scientific computing and data science education. I have recently successfully defended my Ph.D. dissertation. During my Ph.D. work, I developed combinations of Bayesian Deep Learning and Graph Neural Networks for structural health assessment problems such as data-driven localization of damage and remaining useful life estimation. 
-
+I have recently started a position as a senior consultant at Deloitte. In my previous work as a doctoral researcher I worked on developing deep learning techniques for quantifying uncertainty and surrogate modeling for wind farms and estimating the remaining useful life of wind turbine components. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
