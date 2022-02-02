@@ -22,12 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Consultant
+    company: Deloitte AG
+    company_url: https://www2.deloitte.com/ch/en/pages/risk/topics/financial-risk.html?icid=nav2_financial-risk
+    location: Zurich
+    date_start: '2022-02-01'
+    date_end: ''
+    description: Applying my strong background on computational science and "Making impact that matters"
+
+
   - title: Doctoral Researcher
     company: ETH Zurich
     company_url: ''
     location: Zurich
     date_start: '2016-09-01'
-    date_end: ''
+    date_end: '2021-11-30'
     description: |2-
         
         Chair of Structural Mechanics and Monitoring.
