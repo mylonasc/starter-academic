@@ -74,7 +74,7 @@ design:
 highlight_name: true
 ---
 
-I have recently started a position as a senior consultant at Deloitte. In my previous work as a doctoral researcher I worked on developing deep learning techniques for quantifying uncertainty and surrogate modeling for wind farms and estimating the remaining useful life of wind turbine components. 
+I am currently working as a senior consultant at Deloitte. I was previously a doctoral researcher. In my PhD thesis I developed deep learning-based techniques for Uncertainty Quantification and Surrogate Modeling with focus on remaining useful life prediction problems in wind-energy.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
