@@ -10,7 +10,7 @@ role: Computational Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Deloitte AG, Risk Advisory
+- name: Deloitte, Risk Advisory
   url: https://www2.deloitte.com/ch/en/pages/risk/topics/financial-risk.html?icid=nav2_financial-risk
 
 # Short bio (displayed in user profile at end of posts)
@@ -21,6 +21,7 @@ interests:
 - Probabilistic deep learing & Deep Generative Models
 - Graph Neural Networks
 - Scientific Computing
+- Blockchain Analytics
 
 # Education to show in About widget
 education:
@@ -74,7 +75,7 @@ design:
 highlight_name: true
 ---
 
-I am currently working as a senior consultant at Deloitte. I was previously a doctoral researcher. In my PhD thesis I developed deep learning-based techniques for Uncertainty Quantification and Surrogate Modeling with focus on remaining useful life prediction problems in wind-energy.
+I am currently working as a senior consultant at Deloitte focusing on advanced analytics techniques. In my prior work I developed probabilistic deep learning-based techniques for remaining useful life prediction problems in wind energy.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
 

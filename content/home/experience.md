@@ -28,7 +28,7 @@ experience:
     location: Zurich
     date_start: '2022-02-01'
     date_end: ''
-    description: Applying my strong background on computational science and "Making impact that matters"
+    description: Implementation of advanced analytics prototypes, DevOps, and cloud computing
 
 
   - title: Doctoral Researcher
