@@ -55,7 +55,107 @@ Here is a [live version](https://galerkin.hopto.org/authors_visualization/) of t
 
 <!---<iframe src="https://galerkin.hopto.org/authors_visualization/" width="800" height="640" allowfullscreen="allowfullscreen"></iframe>
  -->
-<iframe src="/static/authors_visualization/index.html" width="800" height="640" allowfullscreen="allowfullscreen"></iframe>
+<script>
+          var head = document.getElementsByTagName('head')[0];
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+	  script.src = "https://d3js.org/d3.v3.min.js";
+          script.addEventListener('load', D3ok, false);
+          script.onload = "D3ok();";
+	  head.appendChild(script);
+</script>
+<div id="movieNetwork"></div>
+  <div id="sidepanel">
+
+    <div id="title">
+      <div>DSML@DBAUG Publications Network</div>
+
+      <!-- <a href="javascript:void(0);" 
+              onClick="zoomCall(0.5);" style="pointer-events: all;">+</a>
+      <a href="javascript:void(0);" 
+         onClick="zoomCall(-0.5);" style="pointer-events: all;">-</a> -->
+
+      <img id="helpIcon" 
+           src="help-question-48.png" title="Click for help" 
+           onClick="toggleDiv('help');"/> 
+
+    </div>    
+
+    <div id="help" class="panel_off">
+      <img src="close.png" style="float: right;" 
+           onClick="toggleDiv('help');"/>
+        <ul>
+        <li>Hover over a node to see the publication title, and to highlight
+        the publications related to it.</li>
+
+        <li>Click on a node to show publication details. It will open up a
+        side panel.</li>
+
+        <li>On the publication details panel, you can click on the <em>target</em> 
+        icon to center the graph on that movie. And clicking on the link to
+        a related publication will move to that publication (in the graph and in the
+        panel)</li>
+
+        <li>You can use you usual browser controls to zoom and pan
+        over the graph. If you zoom in when centred on a movie, the
+        graph will expand around it.</li>
+
+        <li>Above a certain zoom level, publication titles are automatically
+        displayed for all the nodes.</li>
+      </ul>
+      For additional information, check the <strong><a href="" onClick="return toggleDiv('faq');">FAQ</a></strong>.
+    </div>
+
+    <div id="movieInfo" class="panel_off"></div>
+  </div>
+
+  <div id="faq" class="panel_off">
+    <div id="close_faq">
+      <img src="close.png" onClick="toggleDiv('faq');"/>
+    </div>
+    <dl>
+
+      <dt>Where does this come from?</dt>
+
+      <dd>The author names of the participants of the 1st DSML@DBAUG workshop 
+      were extracted, and google scholar was scraped to  retrieve the most relevant 
+      results when their names were searched. 
+
+      Some of the participants did not have a google scholar account and 
+      there was a limit on the maximum number of possible requests on google-scholar.
+      Nevertheless, 670+ publications were scraped. Also, no care was taken to filter out wrong hits on  
+      the author names (too much work). 
+
+      When you hover over a node the author name and the neighbors are highlighted. 
+
+
+      <dt>And how was this concrete "author network" made?</dt>
+      <dd>This is how I did it:
+        <ol style="margin: 0px;">
+          <li> Google scholar web scraping (using a Selenium-based library called scholarly) was performed for the author names</li>
+            <li> The first 20 results were kept (the results contain extended citation info - such as title, abstract, other authors, publication venue & year etc) </li>
+            <li> The title and abstract were contatenated and a phrase embedding using a pre-trained transformer neural network were computed.</li>
+            <li> A similarity between all the embeddings of the publications was then computed. This similarity is the edge weight between two nodes. </li>
+        </ol>
+      </dd>
+
+      The visualization of the graph was adapted from <a href http://bl.ocks.org/paulovn/9686202/>this example</a>
+
+
+
+    <dt>Credits</dt>
+    <dd><em>
+      Web scraper <a href="https://pypi.org/project/scholarly/">Scholarly python library</a><br/>
+      Pre-trained transformer <a href="https://huggingface.co/transformers/model_doc/bert.html">BERT</a><br/>
+    </em></dd>
+  </div>
+
+<script src="/static/authors_visualization/author-network.js"></script>
+
+
+
+<!---<iframe src="/static/authors_visualization/index.html" width="800" height="640" allowfullscreen="allowfullscreen"></iframe>
+-->
 
 ## Final thoughts
 We ended up not using this for splitting the participants of the workshops; it was a fun project which I may continue in the future. I used a library called [scholarly](https://pypi.org/project/scholarly/) which had some limitations. If you would go about doing that yourself I would recommend [Selenium](https://selenium-python.readthedocs.io/). 
