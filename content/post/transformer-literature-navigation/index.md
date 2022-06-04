@@ -55,15 +55,6 @@ Here is a [live version](https://galerkin.hopto.org/authors_visualization/) of t
 
 <!---<iframe src="https://galerkin.hopto.org/authors_visualization/" width="800" height="640" allowfullscreen="allowfullscreen"></iframe>
  -->
-<script>
-          var head = document.getElementsByTagName('head')[0];
-          var script = document.createElement('script');
-          script.type = 'text/javascript';
-	  script.src = "https://d3js.org/d3.v3.min.js";
-          script.addEventListener('load', D3ok, false);
-          script.onload = "D3ok();";
-	  head.appendChild(script);
-</script>
 
 <div id="movieNetwork"></div>
   <div id="sidepanel-viz">
@@ -580,6 +571,16 @@ function D3ok() {
   });
 
 } // end of D3ok()
+</script>
+
+<script>
+          var head = document.getElementsByTagName('head')[0];
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+	  script.src = "https://d3js.org/d3.v3.min.js";
+          script.addEventListener('load', D3ok, false);
+          script.onload = "D3ok();";
+	  head.appendChild(script);
 </script>
 
 
