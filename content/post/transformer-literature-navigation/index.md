@@ -53,7 +53,9 @@ Note that there are some results from web-scraping that were not correct, but th
 Here is a [live version](https://galerkin.hopto.org/authors_visualization/) of the GUI.
 
 
-<iframe src="https://galerkin.hopto.org/authors_visualization/" width="800" height="640" allowfullscreen="allowfullscreen"></iframe>
+<!---<iframe src="https://galerkin.hopto.org/authors_visualization/" width="800" height="640" allowfullscreen="allowfullscreen"></iframe>
+ -->
+<iframe src="/static/authors_visualization/index.html" width="800" height="640" allowfullscreen="allowfullscreen"></iframe>
 
 ## Final thoughts
 We ended up not using this for splitting the participants of the workshops; it was a fun project which I may continue in the future. I used a library called [scholarly](https://pypi.org/project/scholarly/) which had some limitations. If you would go about doing that yourself I would recommend [Selenium](https://selenium-python.readthedocs.io/). 
