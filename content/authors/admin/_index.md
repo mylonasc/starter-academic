@@ -77,7 +77,8 @@ highlight_name: true
 
 I am currently working as a senior consultant at Deloitte focusing on advanced analytics. In my prior work I developed probabilistic deep learning-based techniques for remaining useful life prediction problems in wind energy.
 
-![gitstars](https://github-readme-stats.vercel.app/api?username=mylonasc)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+![gitstars](https://github-readme-stats.vercel.app/api?username=mylonasc&show_icons=true&theme=radical)
 
