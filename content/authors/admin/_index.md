@@ -75,8 +75,14 @@ design:
 highlight_name: true
 ---
 
-I am currently working as a senior consultant at Deloitte focusing on advanced analytics. In my prior work I developed probabilistic deep learning-based techniques for remaining useful life prediction problems in wind energy.
+I am currently working as a senior consultant at Deloitte within the Risk, Data, and Analytics team of Risk Advisory. 
 
+I have extensive experience using deep learning and statistical techniques (through both personal, academic, and work-related projects) with a wide variety of data, spanning high-frequency signals (e.g., sensor data/simulation data/speech data), financial data (e.g., financial risk computations), health science related data (biological signals, lesion images, knowledge graphs, protein/small mollecule embeddings), and traffic network data.
+
+My interests revolve around
+* graph neural networks and generative models,
+* bias mitigation and safety in deep learning,
+* democratization of deep learning through network compression/pruning techniques.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
