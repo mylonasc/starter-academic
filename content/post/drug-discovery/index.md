@@ -1,5 +1,5 @@
 ---
-title: Knowledge graph embedings for drug-target interactions
+title: Knowledge graph embeddings for drug-target interactions
 date: 2023-04-18
 math: true
 diagram: true
