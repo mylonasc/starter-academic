@@ -52,7 +52,7 @@ social:
   link: https://github.com/mylonasc
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/charilaos-mylonas-54691948/
+  link: https://www.linkedin.com/in/charilaos-mylonas-phd-54691948/
 
 
 # Link to a PDF of your resume/CV.
