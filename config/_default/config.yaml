@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Charilaos Mylonas, PhD Researcher # Website name
+title: Dr. Charilaos (Harry) Mylonas # Website name
 baseurl: 'http://mylonasc.xyz/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
