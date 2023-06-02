@@ -60,7 +60,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/MylonasCharilaos_Oct21.pdf
+#   link: uploads/MylonasCharilaos_May3.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mylonas.charilaos@gmail.com"
@@ -84,7 +84,7 @@ My interests revolve around
 * bias mitigation and safety in deep learning,
 * democratization of deep learning through network compression/pruning techniques.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_Oct21.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_May23.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ![gitstars](https://github-readme-stats.vercel.app/api?username=mylonasc&show_icons=true&theme=radical)
 
