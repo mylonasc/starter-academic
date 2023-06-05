@@ -17,11 +17,13 @@ organizations:
 bio: Computational Scientist
 
 # Interests to show in About widget
-interests:
-- Probabilistic deep learing & Deep Generative Models
+Interests:
+- Probabilistic deep learning & Deep Generative Models
+- (efficient) Large Language Models
 - Graph Neural Networks
-- Scientific Computing
-- Blockchain Analytics
+- Financial Risk Modeling 
+- Scientific Computing and Optimization
+
 
 # Education to show in About widget
 education:
@@ -75,9 +77,9 @@ design:
 highlight_name: true
 ---
 
-I am currently working as a senior consultant at Deloitte within the Risk, Data, and Analytics team of Risk Advisory. 
+I am working as a senior consultant at Deloitte within the Risk, Data, and Analytics team of Risk Advisory. 
 
-I have extensive experience using deep learning and statistical techniques (through both personal, academic, and work-related projects) with a wide variety of data, spanning high-frequency signals (e.g., sensor data/simulation data/speech data), financial data (e.g., financial risk computations), health science related data (biological signals, lesion images, knowledge graphs, protein/small mollecule embeddings), and traffic network data.
+I have extensive experience using deep learning and statistical techniques (through both personal, academic, and work-related projects) with a wide variety of data, spanning high-frequency signals (e.g., sensor data/simulation data/speech data), SCADA data (Wind Farm monitoring), financial data (e.g., financial risk computations), health science related data (biological signals, skin lesion images, knowledge graphs, protein/small molecule embeddings), and traffic network data.
 
 My interests revolve around
 * graph neural networks and generative models,
