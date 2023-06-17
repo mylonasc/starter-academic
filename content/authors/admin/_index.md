@@ -88,5 +88,4 @@ These are some of the techniques I employed during my [PhD](https://www.research
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_May23.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-#gitstars](https://github-readme-stats.vercel.app/api?username=mylonasc&show_icons=true&theme=radical)
 
