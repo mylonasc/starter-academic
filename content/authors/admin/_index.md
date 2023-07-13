@@ -19,7 +19,7 @@ bio: Computational Scientist
 # Interests to show in About widget
 Interests:
 - Probabilistic deep learning & Deep Generative Models
-- (efficient) Large Language Models
+- Large Language Models and efficiency (e.g., qLoRA) / LLM agent applications
 - Graph Neural Networks
 - Financial Risk Modeling 
 - Scientific Computing and Optimization
@@ -79,7 +79,7 @@ highlight_name: true
 
 I am working as a senior consultant at Deloitte within the Risk, Data, and Analytics team of Risk Advisory. 
 
-I have extensive experience using deep learning and statistical techniques through personal, academic, and work-related projects, covering a wide variety of data, such as high-frequency signals (e.g., sensor data/simulation data/speech data), SCADA data (Wind Farm monitoring), financial data (e.g., financial risk computations), health science related data (biological signals, skin lesion images, knowledge graphs (e.g., DrugBank), protein/small molecule embeddings). 
+I have extensive experience using deep learning and statistical techniques through personal, academic, and work-related projects, covering a wide variety of data, such as high-frequency signals (e.g., sensor data/simulation data/speech data), SCADA data (Wind Farm monitoring), financial data (e.g., financial risk computations), health science related data (biological signals, skin lesion images, knowledge graphs (e.g., DrugBank), protein/small molecule embeddings). Knowledge graphs and efficient large language model training are my current passion! 
 
 My main expertise is on (Message-passing) Graph Neural Networks ([1](https://github.com/mylonasc/tf_gnns)), Bayesian Deep Learning for Generative modeling (e.g., ([3](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2621), [4](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385323/4/GeneGolubPoster.pdf)) ) and their fusion (e.g., such as VAEs for graph structured data [5](https://arxiv.org/abs/2106.16049), and Bayesian predictive models for time-series on graphs [6](https://arxiv.org/abs/2012.06791)). I have also developed Bayesian deep learning models for "irregular" time-series occuring in Structural Health Monitoring (SHM) ([7](https://www.mdpi.com/1424-8220/21/19/6325)), and co-authored papers on using Neural ODEs for SHM ([8](https://www.sciencedirect.com/science/article/abs/pii/S0022460X21002686)). 
 
