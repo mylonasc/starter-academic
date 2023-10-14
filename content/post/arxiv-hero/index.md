@@ -1,5 +1,5 @@
 ---
-title: ArxivHero: hyper-specialized daily arxiv paper digest creation.
+title: ArxivHero - A hyper-specialized daily arxiv paper digest creation.
 date: 2023-10-14
 math: true
 diagram: true
