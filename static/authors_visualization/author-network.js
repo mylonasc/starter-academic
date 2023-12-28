@@ -192,7 +192,7 @@ function D3ok() {
 
   d3.json(
     //'movie-network-25-7-3.json',
-    'authors_with_affinities.json',
+    '/static/authors_visualization/authors_with_affinities.json',
     function(data) {
 
     // Declare the variables pointing to the node & link arrays
