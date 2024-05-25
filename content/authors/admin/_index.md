@@ -85,7 +85,7 @@ My main expertise is on (Message-passing) Graph Neural Networks ([1](https://git
 
 These are some of the techniques I employed during my [PhD](https://www.research-collection.ethz.ch/handle/20.500.11850/511551) at ETH Zurich.
 
-My current research interests revolve around machine learning for financial markets and I've been setting up my own small quantitative research and data scraping pipelines for options and equity data.
+My current research interests revolve around machine learning for financial markets and I've been setting up my own small quantitative/algo-trading research and data scraping pipelines for options and stock data. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_May23.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
