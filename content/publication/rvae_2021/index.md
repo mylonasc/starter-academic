@@ -27,7 +27,7 @@ publishDate: "2019-01-28T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *NeurIPS 2021*, under review. 
+publication: PhD chapter
 publication_short:
 
 abstract: Graph Networks (GNs) enable the fusion of prior knowledge and relational reasoning with flexible function approximations. In this work, a general GN-based model is proposed which takes full advantage of the relational modeling capabilities of GNs and extends these to probabilistic modeling with Variational Bayes (VB). To that end, we combine complementary pre-existing approaches on VB for graph data and propose an approach that relies on graph-structured latent and conditioning variables. It is demonstrated that Neural Processes can also be viewed through the lens of the proposed model. We show applications on the problem of structured probability density modeling for simulated and real wind farm monitoring data, as well as on the meta-learning of simulated Gaussian Process data. We release the source code, along with the simulated datasets.
