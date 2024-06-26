@@ -19,7 +19,7 @@ It is possible to simulate when and for what capacity each generator is going to
 Below you see some animations I produced for the generation of different energy sources. These are optimized jointly, while taking into account the underlying electricity grid, and the marginal prices each different producer is able to bid (for wind and solar the production cost is zero). 
 
 Wind production over Europe - January '23
-![wind energy production](https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/wind_over_europe.mp4)
+<video src="https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/wind_over_europe.mp4" width="320" height="240" controls></video>
 
 CCGT production over Europe - January '23 
 ![CCGT Generators](https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/ccgt_anim.mp4)
