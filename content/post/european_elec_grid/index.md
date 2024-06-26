@@ -21,11 +21,11 @@ Below you see some animations I produced for the generation of different energy 
 Wind production over Europe - January '23
 <video src="https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/wind_over_europe.mp4" width="320" height="240" controls></video>
 
-CCGT production over Europe - January '23 
-![CCGT Generators](https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/ccgt_anim.mp4)
+CCGT Generator Production over Europe - January '23 
+<video src="https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/ccgt_anim.mp4" width="320" height="240" controls></video>
 
-Oil Production over Europe - January '23
-![Oil Generators](https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/oil_anim.mp4)
+Oil Generator Production over Europe - January '23
+<video src="https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/oil_anim.mp4" width="320" height="240" controls></video>
 
 ## The European Power Market: A Symphony of Renewables and Smart Grids
 
