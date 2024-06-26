@@ -1,6 +1,6 @@
 ---
 title: European Power Market
-date: 2024-10-14
+date: 2024-06-25
 math: true
 diagram: true
 highlight: true
