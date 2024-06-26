@@ -63,7 +63,7 @@ Also related to the balancing market, smart meters can collect data on electrici
 # The Merit Order Curve
 The merit order curve is a key concept in the electricity market, and it is tightly related to the Day-Ahead market mentioned above. It ranks power generation sources based on their marginal costs, with the cheapest sources (often renewables) at the bottom and the most expensive (like gas plants) at the top. This prioritization ensures that electricity is generated cost-effectively, promoting the use of renewable energy when available.
 
-![Alt text](https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/ccgt_anim.mp4/merit_order.png)
+![Alt text](https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/merit_order.png)
 
 # Smart Grids: The Digital Transformation
 The integration of renewables is facilitated by the rise of smart grids. These are electricity networks enhanced with digital technology, enabling real-time monitoring and management of power flows. Smart grids, together with the electricity market, are key to handling the intermittent nature of renewable energy and distributing it efficiently across Europe.
