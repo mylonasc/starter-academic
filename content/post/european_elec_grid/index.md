@@ -14,7 +14,7 @@ image:
 
 ## Simulation of the European Power Market
 
-It is possible to simulate when and for what capacity each generator is going to operate, and at what bidding price each zone is going to operate. This can be performed using comercial power systems analysis software, but sophisticated open-source tools are also available emerged.
+It is possible to simulate when and for what capacity each generator is going to operate, and at what bidding price each zone is going to operate. This can be performed using comercial power systems analysis software, but sophisticated open-source tools are also available.
 
 Below are some animations I produced for the generation of different energy sources (lighter colors are "more"). These are optimized jointly, while taking into account the underlying electricity grid, and the marginal prices each different producer is able to bid. For wind and solar the production cost is zero, whereas for the gas/oil/coal powered generators some oil prices are assumed. The model simulations were performed as a "test-bed" for development of ML algorithms and for learning about power market modeling.
 
