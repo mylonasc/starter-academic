@@ -12,11 +12,12 @@ image:
 
 {{< toc >}} 
 
+
 ## Simulation of the European Power Market
 
 It is possible to simulate when and for what capacity each generator is going to operate, and at what bidding price each zone is going to operate. This can be performed using comercial power systems analysis software, but sophisticated open-source tools are also available.
 
-Below are some animations I produced for the generation of different energy sources (lighter colors are "more"). These are optimized jointly, while taking into account the underlying electricity grid, and the marginal prices each different producer is able to bid. For wind and solar the production cost is zero, whereas for the gas/oil/coal powered generators some oil prices are assumed. The model simulations were performed as a "test-bed" for development of ML algorithms and for learning about power market modeling.
+Below are some animations I produced for the generation of different energy sources (lighter colors are "more" power production). These are optimized jointly, while taking into account the underlying electricity grid, and the marginal prices each different producer is able to bid. For wind and solar the production cost is zero, whereas for the gas/oil/coal powered generators some oil prices are assumed. The model simulations were performed as a "test-bed" for development of ML algorithms and for learning about power market modeling.
 
 Wind production over Europe - January '23
 <video src="https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/wind_over_europe.mp4" width="320" height="240" controls></video>
@@ -43,7 +44,7 @@ Other interesting constraints to take into consideration for balancing supply an
 # The Markets: Day-Ahead, Intra-Day, and Balancing
 The European power market operates through several key markets that facilitate the efficient allocation of electricity:
 
-**Day-Ahead Market:** This market operates on a 24-hour cycle where participants (electricity producers, suppliers, and traders) submit their bids and offers for for price per MW/h, per time slot (mostly 1h in Europe), for consumption during the next day. The day-ahead market, is also referred to as the "spot" market. This may be a bit confusing if one is used to the meaning of "spot" prices for other financial instruments - technically the day-ahead bids are "futures", but energy trading nomenclature has converged to callig this "spot market". In this market the largest volumes (and prices) of electricity are traded.
+**Day-Ahead Market:** This market operates on a 24-hour cycle where participants (electricity producers, suppliers, and traders) submit their bids and offers for for price per MWh, per time slot (mostly 1h in Europe), for consumption during the next day. The day-ahead market, is also referred to as the "spot" market (which is a bit confusing, since one could argue that day-ahead traded electricity, is essentially a short-term future contract!). 
 
 The market clears through an optimization process that involves a solution to the so-called Optimal Power Flow (OPF) problem, which calculates the most efficient distribution of electricity, taking into account grid constraints and the merit order curve (where the cheapest energy sources are used first and the highest bidders are satisfied first). 
 
