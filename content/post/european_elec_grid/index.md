@@ -13,7 +13,23 @@ image:
 {{< toc >}} 
 
 
+## The European Power Grid and Power Market: A Symphony of Renewables and Smart Grids
+
+Welcome to the electrifying world of the European power market! If you've ever flicked a light switch or charged your electric car, you're part of a vast, dynamic network that balances supply and demand, incentivizes renewable energy, and ensures electricity flows seamlessly across borders. Let’s dive into the fascinating mechanics of this grid, explore the various markets involved, and discover how it’s paving the way for a sustainable future.
+
+## The Backbone: Understanding the European Electricity Grid
+Imagine a colossal web of interconnected power lines stretching across Europe. This is the European electricity grid, a marvel of modern engineering that ensures power is delivered wherever and whenever it’s needed.
+
+At its core, the grid is about balance. Electricity generation and consumption must be perfectly matched at all times to maintain stability. This is no small feat, considering the fluctuating nature of both demand (think of how electricity use spikes in the evening) and supply (renewables like wind and solar are, by nature, variable). However, the grid has constraints, such as maximum transfer capacity, which can limit the flow of electricity between regions.
+
+Morever, fossil fuel and CO2 emission prices may make generation prohibitive for conventional generators when there is enough renewable generation in the grid. 
+
+Other interesting constraints taken into consideration when balancing electricity supply and demand, are the ramping-up and ramping-down of generators. "Fired" generators (e.g., generators that burn some type of fuel) will incur operational costs. If there is sufficient supply of wind and solar, the price of electricity may be too low and it may make no financial sense to operate them. In fact, there is at least one case of fossil fuel gas power plant, that requested to cease operations due to the competition from renewables (e.g., [Irsching power station - Wikipedia](https://en.wikipedia.org/wiki/Irsching_Power_Station)).
+
 ## Simulation of the European Power Market
+
+As it quickly becomes obvious when studying the problem of solving the power grid, putting a price on production and distribution of electricity is not an easy feat. The problem becomes even more interesting and complex when considering gas and oil distribution and prices, but in this post I will focus on the electricity distribution problem.
+Power systems engineers have been hard at work figuring out algorithms that can provide good estimates on pricing schemes (i.e., market designs) that ballance the power generation and distribution incentives with the need for satisfying electricity demand. 
 
 It is possible to simulate when and for what capacity each generator is going to operate, and at what bidding price each zone is going to operate. This can be performed using comercial power systems analysis software, but sophisticated open-source tools are also available.
 
@@ -27,19 +43,6 @@ CCGT Generator Production over Europe - January '23
 
 Oil Generator Production over Europe - January '23
 <video src="https://github.com/mylonasc/starter-academic/raw/master/content/post/european_elec_grid/oil_anim.mp4" width="320" height="240" controls></video>
-
-## The European Power Market: A Symphony of Renewables and Smart Grids
-
-Welcome to the electrifying world of the European power market! If you've ever flicked a light switch or charged your electric car, you're part of a vast, dynamic network that balances supply and demand, incentivizes renewable energy, and ensures electricity flows seamlessly across borders. Let’s dive into the fascinating mechanics of this grid, explore the various markets involved, and discover how it’s paving the way for a sustainable future.
-
-## The Backbone: Understanding the European Electricity Grid
-Imagine a colossal web of interconnected power lines stretching across Europe. This is the European electricity grid, a marvel of modern engineering that ensures power is delivered wherever and whenever it’s needed.
-
-At its core, the grid is about balance. Electricity generation and consumption must be perfectly matched at all times to maintain stability. This is no small feat, considering the fluctuating nature of both demand (think of how electricity use spikes in the evening) and supply (renewables like wind and solar are, by nature, variable). However, the grid has constraints, such as maximum transfer capacity, which can limit the flow of electricity between regions.
-
-Morever, fossil fuel and CO2 emission prices may make generation prohibitive for conventional generators.
-
-Other interesting constraints to take into consideration for balancing supply and demand, are the ramping-up and ramping-down of generators. "Fired" generators (e.g., generators that burn some type of fuel) will incur operational costs. If there is sufficient supply of wind and solar, the price of electricity may be too low and it may make no financial sense to operate them. In fact, there is at least one case of fossil fuel gas power plant, that requested to cease operations due to the competition from renewables [Irsching power station - Wikipedia](https://en.wikipedia.org/wiki/Irsching_Power_Station).
 
 # The Markets: Day-Ahead, Intra-Day, and Balancing
 The European power market operates through several key markets that facilitate the efficient allocation of electricity:
@@ -69,7 +72,7 @@ The merit order curve is a key concept in the electricity market, and it is tigh
 ## Smart Grids: The Digital Transformation
 The integration of renewables is facilitated by the rise of smart grids. These are electricity networks enhanced with digital technology, enabling real-time monitoring and management of power flows. Smart grids, together with the electricity market, are key to handling the intermittent nature of renewable energy and distributing it efficiently across Europe.
 
-**Energy Storage:** Batteries and other storage technologies are crucial for storing excess renewable energy and releasing it when production is low, ensuring a constant power supply. Some of the interesting ideas I discovered during my deep-dive into electricity technologies, is the re-purposing of the gas infrastructure (including pipelines) to transport hydrogen, which can be readilly produced from electrolysis.
+**Energy Storage:** Batteries and other storage technologies are crucial for storing excess renewable energy and releasing it when production is low, ensuring a constant power supply. Some of the interesting ideas I discovered during my deep-dive into electricity technologies, is the re-purposing of the gas infrastructure (including pipelines) to transport hydrogen, which can be readily produced from electrolysis.
 
 ## Cross-Border Cooperation: A Unified Energy Market
 The European grid isn’t confined by national borders. Countries are interconnected through cross-border interconnectors, enabling the flow of electricity across the continent. This cooperation enhances energy security and efficiency, allowing countries to support each other during peak demand or supply shortages. An often-cited example where such cooperation between European nations becomes valuable, is when there is high production of wind and solar from Spain, which can be used, instead of wasted, by southern France, whereas France exports nuclear energy to Germany.
@@ -79,12 +82,13 @@ A key difference between the European and US electricity markets lies in their p
 
 In contrast, the US employs a nodal pricing system, where prices vary at different points (nodes) in the grid, reflecting local supply, demand, and grid constraints more accurately. This system is more complex but can lead to more efficient outcomes by addressing localized issues directly. 
 
-The Future: Towards a Sustainable and Resilient Grid
+## The Future: Towards a Sustainable and Resilient Grid
 The journey towards a fully sustainable and resilient European power market is ongoing. Innovations like grid-scale batteries, hydrogen fuel cells, and advanced AI algorithms for accurate demand and supply forecasts, potentially incorporating grid-topology information, promise to further enhance grid stability and renewable integration.
 
-Moreover, the European Green Deal aims to make Europe the first climate-neutral continent by 2050, further accelerating the transition to renewable energy and smarter grids.
+Moreover, the European Green Deal aims to make Europe the first climate-neutral continent by 2050, further accelerating the transition to renewable energy and smarter grids. 
 
-## Conclusion
-The European electricity grid is more than just wires and pylons; it’s a sophisticated network that plays a pivotal role in our transition to a sustainable future. Through incentivizing renewables, power markets, and fostering cross-border cooperation, Europe is lighting the way towards a cleaner, greener world.
+## Stochastic Market Clearing
+The common day-ahead/intra-day/balancing market design, and the engineering problems of unit commitment and economic dispatch, are components of the "Deterministic Market Clearing" mechanism. One can imagine, that since the quantities driving these optimization problems are uncertain, a clearing algorithm that takes stochasticity into account may perform better (e.g., "Stochastic Market Clearing" algorithms). Intuitively, it is also easy to imagine that a market based on uncertainty-aware designs, would be more robust to under and over production at different parts of the grid. Indeed, stochastic market clearing algorithms are a current research topic in power market design.
 
-Next time you switch on a light or charge your device, remember the incredible engineering at work behind the scenes, ensuring a bright and sustainable future for all.
+In stochastic market clearing, instead of using one value for renewable electricity generation in a bidding zone, which is what happens in deterministic market clearing algorithms, we can prepare for all renewable electricity generation scenarios *in expectation*. 
+
