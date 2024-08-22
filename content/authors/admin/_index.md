@@ -6,7 +6,7 @@ title: Charilaos Mylonas
 superuser: true
 
 # Role/position/tagline
-role: Computational Scientist 
+role: Data/Computational Scientist, Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www2.deloitte.com/ch/en/pages/risk/topics/financial-risk.html?icid=nav2_financial-risk
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computational Scientist
+bio: Data Scientist
 
 # Interests to show in About widget
 Current interests:
@@ -77,16 +77,12 @@ design:
 highlight_name: true
 ---
 
-I am working as a senior consultant at Deloitte within the Risk, Data, and Analytics team of Risk Advisory. 
+I am a senior consultant at Deloitte within the Risk, Data, and Analytics team of Risk Advisory.
 
-I have extensive experience with deep learning and statistical techniques through personal, academic, and work-related projects, covering a wide variety of data, such as high-frequency signals, financial data, and knowledge graphs. 
+My core skills are in deep learning and ML. 
 
-My main expertise is on (Message-passing) Graph Neural Networks ([1](https://github.com/mylonasc/tf_gnns)), Bayesian Deep Learning for Generative modeling (e.g., ([3](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2621), [4](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385323/4/GeneGolubPoster.pdf)) ) and their fusion (e.g., such as VAEs for graph structured data [5](https://arxiv.org/abs/2106.16049), and Bayesian predictive models for time-series on graphs [6](https://arxiv.org/abs/2012.06791)). I have also developed Bayesian deep learning models for "irregular" time-series occuring in Structural Health Monitoring (SHM) ([7](https://www.mdpi.com/1424-8220/21/19/6325)), and co-authored papers on using Neural ODEs for SHM ([8](https://www.sciencedirect.com/science/article/abs/pii/S0022460X21002686)). 
+More speciffically, my main expertise is on (Message-passing) Graph Neural Networks ([1](https://github.com/mylonasc/tf_gnns)), Bayesian Deep Learning for Generative modeling (e.g., ([3](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2621), [4](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385323/4/GeneGolubPoster.pdf)) ) and their fusion (e.g., such as VAEs for graph structured data [5](https://arxiv.org/abs/2106.16049), and Bayesian predictive models for time-series on graphs [6](https://arxiv.org/abs/2012.06791)). I have also developed Bayesian deep learning models for "irregular" time-series occuring in Structural Health Monitoring (SHM) ([7](https://www.mdpi.com/1424-8220/21/19/6325)), and co-authored papers on using Neural ODEs for SHM ([8](https://www.sciencedirect.com/science/article/abs/pii/S0022460X21002686)). 
 
 These are some of the techniques I employed during my [PhD](https://www.research-collection.ethz.ch/handle/20.500.11850/511551) at ETH Zurich.
-
-My current research interests revolve around machine learning for financial markets and I've been setting up my own small quantitative/algo-trading research and data scraping pipelines for options and stock data. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MylonasCharilaos_May23.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 
