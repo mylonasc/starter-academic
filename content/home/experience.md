@@ -22,12 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Manager
+    company: Deloitte AG
+    date_start: '2024-09-01'
+    date_end: ''
+    
   - title: Senior Consultant
     company: Deloitte AG
     company_url: https://www2.deloitte.com/ch/en/pages/risk/topics/financial-risk.html?icid=nav2_financial-risk
     location: Zurich
     date_start: '2022-02-01'
-    date_end: ''
+    date_end: '2024-08-31'
     description: Implementation of advanced analytics prototypes, DevOps, and cloud computing
 
 
