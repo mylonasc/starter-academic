@@ -77,12 +77,15 @@ design:
 highlight_name: true
 ---
 
-I am a senior consultant at Deloitte within the Risk, Data, and Analytics team of Risk Advisory.
+I am an assistant manager at Deloitte Zurich.
 
-My core skills are in machine learning (mainly deep learning), but I have extensive experience in finance and scientific computing.
+My core are machine learning (deep learning), scientific computing, and my engagements at Deloitte are in financial risk management.
 
-More speciffically, my main expertise is on (Message-passing) Graph Neural Networks ([1](https://github.com/mylonasc/tf_gnns)), Bayesian Deep Learning for Generative modeling (e.g., ([3](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2621), [4](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385323/4/GeneGolubPoster.pdf)) ) and their fusion (e.g., such as VAEs for graph structured data [5](https://arxiv.org/abs/2106.16049), and Bayesian predictive models for time-series on graphs [6](https://arxiv.org/abs/2012.06791)). I have also developed Bayesian deep learning models for "irregular" time-series occuring in Structural Health Monitoring (SHM) ([7](https://www.mdpi.com/1424-8220/21/19/6325)), and co-authored papers on using Neural ODEs for SHM ([8](https://www.sciencedirect.com/science/article/abs/pii/S0022460X21002686)). 
+🎓 My deep learning-related work is on Graph Neural Networks ([1](https://github.com/mylonasc/tf_gnns)), Bayesian Deep Learning for Generative modeling (e.g., ([3](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2621), [4](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385323/4/GeneGolubPoster.pdf)) ) and their fusion (e.g., such as VAEs for graph structured data [5](https://arxiv.org/abs/2106.16049), and Bayesian predictive models for time-series on graphs [6](https://arxiv.org/abs/2012.06791)). I have also developed Bayesian deep learning models for high frequency time-series in Structural Health Monitoring (SHM) ([7](https://www.mdpi.com/1424-8220/21/19/6325)), and co-authored papers on using Neural ODEs for SHM ([8](https://www.sciencedirect.com/science/article/abs/pii/S0022460X21002686)). 
 
 These are some of the techniques I employed during my [PhD](https://www.research-collection.ethz.ch/handle/20.500.11850/511551) at ETH Zurich.
 
+💼 At Deloitte, I've worked in business development for energy market analytics, I have contributed to the assessment of liquidity and credit risk systems, and created cryptocurrency transaction analytics prototypes. I have also been involved in defining the requirements, coordinating efforts, and contributing to early asset development of retrieval augmented generation (RAG) LLM-prototypes, introduced DevOps processes, and provided several internal seminars on RAG and LLM technology.
+
+🎹 On my free time, I play music and hack-around with microcontrollers, software engineering and automation, and keep up with deep learning research.
 
