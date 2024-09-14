@@ -1,5 +1,5 @@
 ---
-title: "Established and Co-organized the Data Science Community of Practice at ETH-DBAUG"
+title: "Co-organized the Inaugural Workshops for the Data Science Community of Practice at ETH-DBAUG"
 
 event: "Community of practice workshop (organizer, facilitator)"
 event_url: "https://baug.ethz.ch/en/research/dsml.html"
