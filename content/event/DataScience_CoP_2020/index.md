@@ -18,7 +18,7 @@ abstract: "Since the start of 2020, with some PhD students that were interested 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-10-14T13:00:00Z"
-date_end: "2020-10-14T15:00:00Z"
+# date_end: "2020-10-14T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
