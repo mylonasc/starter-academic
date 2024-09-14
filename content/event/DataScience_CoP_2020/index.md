@@ -13,7 +13,7 @@ address:
   country: Switzerland
 
 summary: established and co-organized a community of pratice for data science in engineering.
-abstract: "(poster on VAEs for wind farms) Became friends with some amazing PhD researchers on computational science during a 2-week session! Exposed to the idea of matrix sketching, gradient-based tensor decompositions, and Determinatal Point Processes. Favorite highlight (apart from awesome French cheese and wine) the talk by T. Kolda on tensor decompositions."
+abstract: "Since the start of 2020, with some PhD students that were interested in incorporating deep learning and reinforcement learning in their research, we were discussing the organization of a series of recurring workshops to share our research and create a platform for feedback. Nowadays (2024) I know this what is called a **community of practice** or a **guild** (in medieval terms). Our professors were very supportive in creating this and 'volunteered' us to organize a department-wide workshop where PhD students that had an ML component to their research could present their work. The workshop was a big success (around 100 researchers at all levels participated in total) and everyone had the opportunity to network and expose their work. In a certain sence, this was a conference done right. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
