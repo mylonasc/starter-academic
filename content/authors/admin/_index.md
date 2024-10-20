@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/MylonasCharilaos_May3.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/MylonasCharilaos_20Oct24_nt.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mylonas.charilaos@gmail.com"
@@ -88,4 +88,5 @@ These are some of the techniques I employed during my [PhD](https://www.research
 💼 At Deloitte, I've worked in business development for energy market analytics, I have contributed to the assessment of liquidity and credit risk systems, and created cryptocurrency transaction analytics prototypes. I have also been involved in defining the requirements, coordinating efforts, and contributing to early asset development of retrieval augmented generation (RAG) LLM-prototypes, introduced DevOps processes, and provided several internal seminars on RAG and LLM technology.
 
 🎹 On my free time, I play music and hack-around with microcontrollers, software engineering and automation, and keep up with deep learning research.
+
 
