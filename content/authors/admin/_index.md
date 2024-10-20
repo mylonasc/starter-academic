@@ -79,7 +79,7 @@ highlight_name: true
 
 I am an assistant manager at Deloitte Zurich.
 
-My core are machine learning (deep learning), scientific computing, and my engagements at Deloitte are in financial risk management.
+My core skills are machine learning (deep learning), scientific computing, software engineering and I have experience through my engagements at Deloitte in financial risk management.
 
 🎓 My deep learning-related work is on Graph Neural Networks ([1](https://github.com/mylonasc/tf_gnns)), Bayesian Deep Learning for Generative modeling (e.g., ([3](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2621), [4](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385323/4/GeneGolubPoster.pdf)) ) and their fusion (e.g., such as VAEs for graph structured data [5](https://arxiv.org/abs/2106.16049), and Bayesian predictive models for time-series on graphs [6](https://arxiv.org/abs/2012.06791)). I have also developed Bayesian deep learning models for high frequency time-series in Structural Health Monitoring (SHM) ([7](https://www.mdpi.com/1424-8220/21/19/6325)), and co-authored papers on using Neural ODEs for SHM ([8](https://www.sciencedirect.com/science/article/abs/pii/S0022460X21002686)). 
 
