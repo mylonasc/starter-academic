@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/MylonasCharilaos_20Oct24_nt.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/MylonasCharilaos_20Oct24_nt.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mylonas.charilaos@gmail.com"
@@ -77,7 +77,7 @@ design:
 highlight_name: true
 ---
 
-I am an assistant manager at Deloitte Zurich.
+I am a M.Sc. and Ph.D. graduate from ETH Zurich, working at Deloitte Zurich. ([link to my CV]( uploads/MylonasCharilaos_20Oct24_nt.pdf))
 
 My core skills are machine learning (deep learning), scientific computing, software engineering and I have experience through my engagements at Deloitte in financial risk management.
 
