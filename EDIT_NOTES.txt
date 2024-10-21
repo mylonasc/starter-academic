@@ -1,0 +1,4 @@
+To change CV:
+--------------
+1. /Workspace/starter-academic/config/_default/menus.yaml (contains the CV link on top)
+2. /Workspace/starter-academic/content/authors/admin/_index.md
