@@ -79,7 +79,7 @@ highlight_name: true
 
 I am a M.Sc. and Ph.D. graduate from ETH Zurich, working at Deloitte Zurich. 
 
-[link to my CV]( uploads/MylonasCharilaos_Oct24_nt_v3.pdf)
+[link to my CV]( uploads/MylonasCharilaos_Oct24_nt_v3-1.pdf)
 
 My core skills are machine learning (deep learning), scientific computing, software engineering and I have experience through my engagements at Deloitte in financial risk management.
 
