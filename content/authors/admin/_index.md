@@ -9,20 +9,19 @@ superuser: true
 role: Data/Computational Scientist, Consultant
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Deloitte, Risk Data and Analytics
-  url: https://www2.deloitte.com/ch/en/pages/risk/topics/financial-risk.html?icid=nav2_financial-risk
+#organizations:
+#- name: Ex-Big4 consulting - currently exploring new opportunities in an ML Startup.
+#  url: https://www2.deloitte.com/ch/en/pages/risk/topics/financial-risk.html?icid=nav2_financial-risk
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data Scientist
+bio: Data Scientist / Software Engineer / Researcher
 
 # Interests to show in About widget
 Current interests:
+- Graph Machine Learning for Fraud Detection
 - Probabilistic deep learning & Deep Generative Models
-- Large Language Models and efficiency (e.g., qLoRA) / LLM agent applications
 - Graph Neural Networks
 - Financial Risk Modeling and Data Science for finance
-- Scientific Machine Learning (e.g., Neural ODEs/SDEs, PINNs)
 
 
 # Education to show in About widget
@@ -57,12 +56,6 @@ social:
   link: https://www.linkedin.com/in/charilaos-mylonas-phd-54691948/
 
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/MylonasCharilaos_20Oct24_nt.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mylonas.charilaos@gmail.com"
@@ -77,18 +70,18 @@ design:
 highlight_name: true
 ---
 
-I am a M.Sc. and Ph.D. graduate from ETH Zurich, working at Deloitte Zurich. 
+I am a M.Sc. and Ph.D. graduate from ETH Zurich, working as a ML engineer (details to be updated).
 
 [link to my CV]( uploads/MylonasCharilaos_Oct24_nt_v3-1.pdf)
 
-My core skills are machine learning (deep learning), scientific computing, software engineering and I have experience through my engagements at Deloitte in financial risk management.
+My core skills are machine learning (deep learning), scientific computing, software engineering and financial risk management.
 
 🎓 My deep learning-related work is on Graph Neural Networks ([1](https://github.com/mylonasc/tf_gnns)), Bayesian Deep Learning for Generative modeling (e.g., ([3](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2621), [4](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385323/4/GeneGolubPoster.pdf)) ) and their fusion (e.g., such as VAEs for graph structured data [5](https://arxiv.org/abs/2106.16049), and Bayesian predictive models for time-series on graphs [6](https://arxiv.org/abs/2012.06791)). I have also developed Bayesian deep learning models for high frequency time-series in Structural Health Monitoring (SHM) ([7](https://www.mdpi.com/1424-8220/21/19/6325)), and co-authored papers on using Neural ODEs for SHM ([8](https://www.sciencedirect.com/science/article/abs/pii/S0022460X21002686)). 
 
 These are some of the techniques I employed during my [PhD](https://www.research-collection.ethz.ch/handle/20.500.11850/511551) at ETH Zurich.
 
-💼 At Deloitte, I've worked in business development for energy market analytics, I have contributed to the assessment of liquidity and credit risk systems, and created cryptocurrency transaction analytics prototypes. I have also been involved in defining the requirements, coordinating efforts, and contributing to early asset development of retrieval augmented generation (RAG) LLM-prototypes, introduced DevOps processes, and provided several internal seminars on RAG and LLM technology.
+💼 In my previous role in consulting (recently resigned in order to pursue other opportunities), I've worked in business development for energy market analytics, I have contributed to the assessment of liquidity and credit risk systems, and created cryptocurrency transaction analytics prototypes. I have also been involved in defining the requirements, coordinating efforts, and contributing to early asset development of retrieval augmented generation (RAG) LLM-prototypes, introduced DevOps processes, and provided several internal seminars on RAG and LLM technology.
 
-🎹 On my free time, I play music and hack-around with microcontrollers, software engineering and automation, and keep up with deep learning research.
+🎹 In my free time, I play music and hack-around with microcontrollers, software engineering and automation, and keep up with deep learning research.
 
 
