@@ -22,10 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Machine Learning Engineer
+    company : (TBA)
+    date_start: '2024-02-01'
+    date_end: ''
+
   - title: Assistant Manager
     company: Deloitte AG
     date_start: '2024-09-01'
-    date_end: ''
+    date_end: '2024-01-31'
     
   - title: Senior Consultant
     company: Deloitte AG
