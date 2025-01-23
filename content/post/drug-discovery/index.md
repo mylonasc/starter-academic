@@ -13,5 +13,4 @@ image:
 {{< toc >}} 
 
 # Using knowledge graphs for drug discovery
-(coming soon... see the [github repo](https://github.com/mylonasc/drug-discovery-gnns/) for progress)
-
+Please refer to this repo: [mylonasc/drug-target-interaction-gnns](https://github.com/mylonasc/drug-target-interaction-gnns)
