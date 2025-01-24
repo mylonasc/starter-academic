@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Senior Machine Learning Engineer
     company : (TBA)
-    date_start: '2024-02-01'
+    date_start: '2025-02-01'
     date_end: ''
 
   - title: Assistant Manager
