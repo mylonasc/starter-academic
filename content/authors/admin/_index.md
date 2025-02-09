@@ -19,7 +19,7 @@ bio: Data Scientist / Software Engineer / Researcher
 # Interests to show in About widget
 Current interests:
 - Graph Machine Learning for Fraud Detection
-- Probabilistic deep learning & Deep Generative Models
+- Multi-modal (graph) foundation models for applied ML
 - Graph Neural Networks
 - Financial Risk Modeling and Data Science for finance
 
@@ -70,14 +70,14 @@ design:
 highlight_name: true
 ---
 
-I hold a Ph.D. and M.Sc. from ETH Zurich and specialize in Machine Learning, with focus in deep learning, scientific computing, software engineering, and I have worked on consulting projects in risk management for financial institutions.
+I hold a Ph.D. and M.Sc. from ETH Zurich and specialize in Machine Learning. My core focus is deep learning, and I have over a decade of expertise in software engineering, scientific/high performance computing, and broad area of machine learning. In addition to my computing and mathematical expertise, I have worked on risk consulting projects for financial institutions (both financial risk and compliance risk-related).
 
-🎓During my Ph.D., I focused on developing cutting-edge deep learning techniques, including Graph Neural Networks, Bayesian Deep Learning for Generative Modeling (e.g., VAEs for graph-structured data), and Bayesian predictive models for time-series on graphs.
+🎓 During my Ph.D., I focused on developing cutting-edge deep learning techniques, including Graph Neural Networks, Bayesian Deep Learning for Generative Modeling (e.g., VAEs for graph-structured data), and Bayesian predictive models for time-series on graphs.
 I also contributed to Structural Health Monitoring (SHM) research, designing Bayesian models for high-frequency time-series and co-authoring work on Neural ODEs in Engineering.
 
-💼 In my Big4 consulting career, I worked on energy market analytics, liquidity and credit risk automation systems, and developed cryptocurrency transaction analytics prototypes. I played a key role in early asset development for Retrieval-Augmented Generation (RAG) LLM prototypes, introduced DevOps processes, and conducted internal seminars on RAG and LLM technologies.
+💼 In my Big4 consulting career, among the several initiatives I have been involved, I was exposed to energy market analytics, liquidity and credit risk reporting automation systems, and developed cryptocurrency transaction analytics prototypes. Moreover, I was a key contributor to early asset development for Retrieval-Augmented Generation (RAG) LLM prototypes, introduced DevOps processes, and conducted internal seminars on RAG and LLM technologies.
 
-🎹 Outside of work, I enjoy playing music, tinkering with microcontrollers and software automation, and staying engaged with deep learning research.
+🎹 Outside of work, I enjoy playing music, tinkering with microcontrollers and software automation, and staying engaged with deep learning research. 
 See below for some of my recent personal projects.
 
 [link to my CV]( uploads/MylonasCharilaos_Oct24_nt_v3-1.pdf)
