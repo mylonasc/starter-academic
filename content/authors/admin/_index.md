@@ -80,6 +80,6 @@ I also contributed to Structural Health Monitoring (SHM) research, designing Bay
 🎹 Outside of work, I enjoy playing music, tinkering with microcontrollers and software automation, and staying engaged with deep learning research. 
 See below for some of my recent personal projects.
 
-[link to my CV]( uploads/MylonasCharilaos_Oct24_nt_v3-1.pdf)
+[link to my CV]( uploads/MylonasCharilaos_May25.pdf)
 
 
