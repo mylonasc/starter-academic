@@ -49,7 +49,7 @@ The European power market operates through several key markets that facilitate t
 
 **Day-Ahead Market:** This market operates on a 24-hour cycle where participants (electricity producers, suppliers, and traders) submit their bids and offers for for price per MWh, per time slot (mostly 1h in Europe), for consumption during the next day. The day-ahead market, is also referred to as the "spot" market (which is a bit confusing, since one could argue that day-ahead traded electricity, is essentially a short-term future contract!). 
 
-The market clears through an optimization process that involves a solution to the so-called Optimal Power Flow (OPF) problem, which calculates the most efficient distribution of electricity, taking into account grid constraints and the merit order curve (where the cheapest energy sources are used first and the highest bidders are satisfied first). 
+The market clears through a special optimization process that which calculates the most efficient distribution of electricity, taking into account grid constraints, the merit order curve (where the cheapest energy sources are used first), and market coupling. 
 
 In the "zonal" pricing implemented in Europe, for each bidding zone, the same price (the **clearing price**) is given for all consumers and producers. Interestingly, this incentivizes the producers to bid the lowest price they can produce at, since they will get paid with the Market Clearing Price (MCP), which can only be equal or higher if their bids were accepted.
 
@@ -57,11 +57,11 @@ You can find more information on how the electricity market works at the [EPEX S
 
 There are further details on the "EUPHEMIA" algorithm that is used to clear the european markets [link](https://www.epexspot.com/sites/default/files/2020-02/Euphemia_Description%20and%20functioning_1812.pdf). 
 
-**Intra-Day Market:** Operating continuously, this market allows participants to make adjustments to their positions as real-time conditions change. It closes just an hour before delivery, providing flexibility to accommodate unexpected changes in demand or supply.
+**Intra-Day Market:** Operating continuously, this market allows participants to make adjustments to their positions as real-time conditions change. It closes just 5 minutes to 30 minutes before delivery (respectively for Germany and Austria), providing flexibility to accommodate unexpected changes in demand or supply.
 
 **Balancing Market:** This market ensures grid stability in real-time by addressing discrepancies between forecasted and actual electricity flows. Grid operators (TSOs) call upon reserve power from various sources to balance the system. 
 
-Also related to the balancing market, smart meters can collect data on electricity usage and generation from "prosumers" (i.e., an entity that is both producer and consumer of electricity). That does not only allow grid operators to predict demand and adjust supply accordingly, but also to offer aggregated "demand" or "consumption" as a service to the grid in real-time. Smart meter technology, as of today, is not yet well-adopted (to the best of my knowledge), but may be an interesting development driving even better efficiencies in the grid. 
+Also related to the balancing market, smart meters can collect data on electricity usage and generation from "prosumers" (i.e., an entity that is both producer and consumer of electricity). That does not only allow grid operators to predict demand and adjust supply accordingly, but also to offer aggregated "demand" or "consumption" as a service to the grid in real-time. Smart meter technology is rolling out rapidly and it may be an interesting development driving even greater grid efficiency.
 
 
 ## The Merit Order Curve
@@ -78,9 +78,9 @@ The integration of renewables is facilitated by the rise of smart grids. These a
 The European grid isn’t confined by national borders. Countries are interconnected through cross-border interconnectors, enabling the flow of electricity across the continent. This cooperation enhances energy security and efficiency, allowing countries to support each other during peak demand or supply shortages. An often-cited example where such cooperation between European nations becomes valuable, is when there is high production of wind and solar from Spain, which can be used, instead of wasted, by southern France, whereas France exports nuclear energy to Germany.
 
 ## Europe vs. US: Zonal vs. Nodal Pricing
-A key difference between the European and US electricity markets lies in their pricing mechanisms. Europe predominantly uses a zonal pricing system, where each country or region is considered a single price zone. Prices within each (bidding) zone are uniform, as mentioned above in the description of the day-ahead market description. 
+A key difference between the European and US electricity markets lies in their pricing mechanisms. Europe predominantly uses a zonal pricing system, where each country or region may have more than one pricing zones (e.g., Sweden has 4 zones, and Italy has 7 physical zones). Prices within each (bidding) zone are uniform, as mentioned above in the description of the day-ahead market. 
 
-In contrast, the US employs a nodal pricing system, where prices vary at different points (nodes) in the grid, reflecting local supply, demand, and grid constraints more accurately. This system is more complex but can lead to more efficient outcomes by addressing localized issues directly. 
+In contrast, the US employs a nodal pricing system, where prices vary at different points (nodes) in the grid, reflecting local supply, demand, and grid constraints more accurately. This system is more complex but can lead to more efficient outcomes by addressing localized issues directly.
 
 ## The Future: Towards a Sustainable and Resilient Grid
 The journey towards a fully sustainable and resilient European power market is ongoing. Innovations like grid-scale batteries, hydrogen fuel cells, and advanced AI algorithms for accurate demand and supply forecasts, potentially incorporating grid-topology information, promise to further enhance grid stability and renewable integration.
