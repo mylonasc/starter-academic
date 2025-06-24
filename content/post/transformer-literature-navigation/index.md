@@ -49,7 +49,7 @@ Some results from these graphs are shown in the following:
 ![mapping related cluster](/litgraph/mapping.png)
 ![social related cluster](/litgraph/social_political_papers.png)
 
-Note that there are some results from web-scraping that were not correct, but this did not seem to degrade the results a lot. On the contrary, some sociological references, for instance, seem to be more connected, validating that BERT does capture some semantic similarities between the respective abstracts.
+<!--- Note that there are some results from web-scraping that were not correct, but this did not seem to degrade the results a lot. On the contrary, some sociological references, for instance, seem to be more connected, validating that BERT does capture some semantic similarities between the respective abstracts.
 Here is a [live version](https://galerkin.hopto.org/authors_visualization/) of the GUI.
 
 
@@ -58,8 +58,9 @@ Here is a [live version](https://galerkin.hopto.org/authors_visualization/) of t
 
 <iframe src="https://static-authorviz.s3.eu-west-1.amazonaws.com/index.html" width="800" height="640" allowfullscreen="allowfullscreen"></iframe>
 
-## Final thoughts
+<! -- ## Final thoughts
 We ended up not using this for splitting the participants of the workshops; it was a fun project which I may continue in the future. I used a library called [scholarly](https://pypi.org/project/scholarly/) which had some limitations. If you would go about doing that yourself I would recommend [Selenium](https://selenium-python.readthedocs.io/). 
+--!>
 
 I hope you enjoyed reading about this project, as much as I enjoyed making it! 
 
