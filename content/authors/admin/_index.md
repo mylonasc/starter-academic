@@ -74,12 +74,12 @@ I hold a Ph.D. and M.Sc. from ETH Zurich and specialize in Machine Learning. My 
 In addition to my computing and mathematical expertise, I worked on risk consulting projects, mainly for financial institutions (both financial risk and compliance risk-related). I am dedicated to extracting value from data using advanced computing 
 and data science, while influencing teams and organizations charting pragmatic and sustainable AI adoption strategies.
 
-🎓 During my Ph.D., I focused on developing cutting-edge deep learning techniques, including Graph Neural Networks, Bayesian Deep Learning for Generative Modeling (e.g., VAEs for graph-structured data), and Bayesian predictive models for time-series on graphs.
-I also contributed to Structural Health Monitoring (SHM) research, designing Bayesian models for high-frequency time-series and co-authoring work on Neural ODEs in Engineering.
+🎓 During my Ph.D., I focused on developing deep learning architectures for time-series on graphs and self-supervised/semi-supervised learning. 
+The techniques I worked on were mainly Graph Neural Networks, Bayesian Deep Learning, and Generative Models (e.g., VAEs for graph-structured data, Neural ODEs) (see my dissertation for more info).
 
-💼 In my Big4 consulting career, among the several initiatives and projects I have worked on, I gained experience in energy markets through business development activities for AI in energy trading, liquidity and credit risk reporting automation systems, and developed cryptocurrency transaction analytics prototypes. Moreover, I was a key contributor to early asset development for Retrieval-Augmented Generation (RAG) LLM prototypes, introduced DevOps processes, and conducted internal seminars on RAG and LLM technologies. Moreover, I co-led the swiss data science community of practitioners, and I have co-organized and presented in several sessions for the EMEA data science CoP.
+💼 In my Big4 consulting career, I gained experience in liquidity and credit risk reporting, and contributed on several business development initiatives including developing cryptocurrency transaction analytics prototypes and electricity grid simulations / predictive models for energy trading.I was a key contributor to early asset development for Retrieval-Augmented Generation (RAG) LLM prototypes, introduced DevOps processes, and conducted internal seminars on RAG and LLM technologies. Moreover, I co-led the swiss data science community of practitioners, and I was a co-organizer of the EMEA Data Science CoP.
 
-🎹 Outside of work, I enjoy playing/making music, tinkering with microcontrollers and software automation, and staying up-to-date with deep learning research. 
+🎹 Outside of work, I enjoy playing/making music, tinkering with microcontrollers and software automation, and staying up-to-date with deep learning and agentic AI research. 
 See below for some of my recent personal projects.
 
 [link to my CV]( uploads/MylonasCharilaos_12Jun25.pdf)
