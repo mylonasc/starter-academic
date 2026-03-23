@@ -82,6 +82,6 @@ The techniques I worked on were mainly Graph Neural Networks, Bayesian Deep Lear
 🎹 Outside of work, I enjoy playing/making music, tinkering with microcontrollers and software automation, and staying up-to-date with deep learning and agentic AI research. 
 See below for some of my recent personal projects.
 
-[link to my CV]( uploads/MylonasCharilaos_12Jun25.pdf)
+[link to my CV]( uploads/CMylonas_Feb26.pdf)
 
 
