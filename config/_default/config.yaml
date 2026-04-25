@@ -25,6 +25,13 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^WC_POST_CSS$'
+
 ############################
 ## ADVANCED
 ############################
