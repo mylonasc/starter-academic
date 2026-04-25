@@ -30,7 +30,7 @@ experience:
   - title: Senior Machine Learning Engineer
     company : Modulai
     date_start: '2025-02-01'
-    date_end: '2025-06-31'
+    date_end: '2025-06-30'
 
   - title: Assistant Manager
     company: Deloitte AG
