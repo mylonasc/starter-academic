@@ -26,16 +26,16 @@ experience:
     company: EPAM Systems
     date_start: '2025-08-01'
     date_end: ''
-    
+
   - title: Senior Machine Learning Engineer
     company : Modulai
     date_start: '2025-02-01'
-    date_end: '2025-05-31'
+    date_end: '2025-06-31'
 
   - title: Assistant Manager
     company: Deloitte AG
     date_start: '2024-09-01'
-    date_end: '2024-01-31'
+    date_end: '2025-02-28'
     
   - title: Senior Consultant
     company: Deloitte AG
