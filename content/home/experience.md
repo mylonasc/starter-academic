@@ -35,7 +35,7 @@ experience:
   - title: Assistant Manager
     company: Deloitte AG
     date_start: '2024-09-01'
-    date_end: '2025-02-28'
+    date_end: '2025-01-31'
     
   - title: Senior Consultant
     company: Deloitte AG
