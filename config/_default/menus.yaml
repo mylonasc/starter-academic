@@ -20,5 +20,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/MylonasC_Apr25_full.pdf
+    url: uploads/MylonasC_Apr26_full.pdf
     weight: 70
